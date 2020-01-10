@@ -1,4 +1,4 @@
-# html-php-form
+#php-html-form
 
 This snippet was made by © Glori4n(https://glori4n.com).
 
